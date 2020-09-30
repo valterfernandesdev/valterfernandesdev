@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ### Hi there, I'm Valter Fernandes. 👋
 Full-Stack Ruby on Rails | Software engineer :robot:  
