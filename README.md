@@ -8,7 +8,6 @@ Full-Stack Ruby on Rails | Software engineer :robot:
 
 You can find me here:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/valterfernandesdev)](https://github.com/valterfernandesdev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valter-fernandes-filho-32667b129/)](https://www.linkedin.com/in/valter-fernandes-filho-32667b129/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522992040322&text=Hello!)](https://api.whatsapp.com/send?phone=5522992040322&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valterfernandes.dev@gmail.com)](mailto:valterfernandes.dev@gmail.com)
